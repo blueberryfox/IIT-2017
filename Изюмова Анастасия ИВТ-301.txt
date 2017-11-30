@@ -11,5 +11,6 @@
 ✓ https://github.com/blueberryfox/IoCExample - сборка, IoC
 ✓ https://github.com/blueberryfox/FactoryMethodExample - тестирование, паттерны, Garbage Collector, работа с файлами, сборка
 ✓ https://github.com/blueberryfox/WebServer - сеть, веб-сервер(самописный)
+https://github.com/blueberryfox/JettyORMLIteExample - jetty, бд
 
 
